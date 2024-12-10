@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Saiful Islam <a href='https://www.linkedin.com/in/saifulislamniloy/'>Niloy</a>
 
 profile:
   align: right
